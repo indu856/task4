@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  width: 250px;
+  padding: 15px;
+  background-color: #f0f4f7;
+}
+
+h2 {
+  font-size: 16px;
+  margin-bottom: 10px;
+  color: #333;
+  text-align: center;
+}
+
+#report p {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+button {
+  width: 100%;
+  padding: 6px;
+  margin-top: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}

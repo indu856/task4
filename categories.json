@@ -1,0 +1,4 @@
+{
+  "productive": ["github.com", "leetcode.com", "w3schools.com"],
+  "unproductive": ["youtube.com", "facebook.com", "instagram.com"]
+}
