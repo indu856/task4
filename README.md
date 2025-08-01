@@ -54,3 +54,4 @@ UI improvements with animations and advanced styling.
 
 
 OUTPUT:
+<img width="1919" height="1076" alt="Image" src="https://github.com/user-attachments/assets/6a2cbc73-e25d-4f13-8eae-d24f5ce07b3d" />
